@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a computer Science Student starting with my 4th Semester. 
+I am looking for Python based Projects and Projects related to Cyber Security :)
 
 <!--
 **Cheemaavneet/Cheemaavneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
